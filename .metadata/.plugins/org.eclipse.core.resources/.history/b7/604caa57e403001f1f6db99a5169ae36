@@ -1,0 +1,11 @@
+package com.superkeyword;
+
+public class Parent {
+	Parent(){
+		System.out.println("parent consructor");
+	}
+	void action() {
+		System.out.println( "instruct child");
+	}
+
+}

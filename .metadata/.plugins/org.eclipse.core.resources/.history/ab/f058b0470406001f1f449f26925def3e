@@ -1,0 +1,9 @@
+package com.eventmanagementsystem;
+
+public class Venue {
+	
+	 
+	 public String description;
+	 public String address;
+
+}

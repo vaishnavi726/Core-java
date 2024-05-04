@@ -1,0 +1,10 @@
+package com.superkeyword;
+
+public class Child extends Parent {
+	
+	void action() {
+	    System.out.println("follow instructions");
+	    super();
+	}
+
+}

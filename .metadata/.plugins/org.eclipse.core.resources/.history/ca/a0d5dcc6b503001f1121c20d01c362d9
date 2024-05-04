@@ -1,0 +1,14 @@
+package com.event.test;
+
+import com.eventmanagementsystem.Orgainzer;
+
+public class Demo {
+	public static void main(String[] args) {
+		
+		Orgainzer organizer = new Orgainzer(45l,"singingevent");
+		System.out.println(organizer.id +" " +organizer.name);
+		
+		
+	}
+
+}

@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\vellendula\Downloads\coreJavapractice\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1104649673.index
+722780037.index
+1013960818.index
+3890997532.index
+1928158258.index
+2137429106.index

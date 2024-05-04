@@ -1,0 +1,12 @@
+package com.superkeyword;
+
+public class Child extends Parent {
+	
+	void action() {
+		super.action();
+
+	    System.out.println("follow instructions");
+	    
+	}
+
+}

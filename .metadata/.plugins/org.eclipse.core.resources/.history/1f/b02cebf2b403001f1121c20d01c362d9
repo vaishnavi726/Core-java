@@ -1,0 +1,8 @@
+package com.eventmanagementsystem;
+
+public class Orgainzer {
+	
+  public Long id;
+  public String name;
+
+}

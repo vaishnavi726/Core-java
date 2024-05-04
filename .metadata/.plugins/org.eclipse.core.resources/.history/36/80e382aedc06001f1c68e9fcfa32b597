@@ -1,0 +1,17 @@
+package com.eventmanagementsystem;
+
+public class Event extends EventManagement {
+	
+	 public String description;
+	 public String startTime;
+	 public String endTime;
+	 public boolean started;
+	 
+	 public Event(Long id , String name, String des) {
+		 this.id = id;
+		 this.name = name;
+		 this.description=des;
+	 }
+
+
+}

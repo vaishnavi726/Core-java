@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\vellendula\Downloads\coreJavapractice\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3786173000.index
+1104649673.index
+3573854474.index
+2185620108.index

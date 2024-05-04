@@ -1,0 +1,9 @@
+package com.superkeyword;
+
+public class Parent {
+	
+	void action() {
+		System.out.println( "instruct child");
+	}
+
+}

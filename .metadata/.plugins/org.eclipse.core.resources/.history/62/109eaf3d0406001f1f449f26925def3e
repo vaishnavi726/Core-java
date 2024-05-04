@@ -1,0 +1,9 @@
+package com.eventmanagementsystem;
+
+public class Participant {
+	public Long id;
+	public String name;
+	public String emailId;
+	public boolean checkIin;
+
+}

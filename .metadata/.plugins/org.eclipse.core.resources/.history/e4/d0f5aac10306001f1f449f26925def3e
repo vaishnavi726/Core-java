@@ -1,0 +1,18 @@
+package com.constructorchaning;
+
+public class Child extends Parent{
+	
+	Child(){
+		this(10);
+		System.out.println("no args child constructor" +this);
+	}
+	Child(int x){
+		super(20);
+		System.out.println("arg child constuctor");
+	}
+	
+	public static void main(String[] args) {
+		Child c = new Child();
+	}
+
+}

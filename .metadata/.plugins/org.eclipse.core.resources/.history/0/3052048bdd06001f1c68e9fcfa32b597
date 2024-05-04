@@ -1,0 +1,8 @@
+package com.eventmanagementsystem;
+// implementing inheritance using this class by adding common properties of all classes
+
+public class EventManagement {
+	 protected Long id;
+	 protected String name;
+
+}

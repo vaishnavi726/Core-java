@@ -1,0 +1,16 @@
+package com.constructorchaning;
+
+public class Parent {
+	
+	int x;
+	
+	public Parent() {
+		System.out.println("no arg parent constructor");
+	}
+	
+	public Parent(int x ) {
+		this.x = x;
+		System.out.println("argument parent constructor");
+	}
+
+}

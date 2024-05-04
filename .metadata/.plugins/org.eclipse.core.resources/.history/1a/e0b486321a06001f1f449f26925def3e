@@ -1,0 +1,28 @@
+package com.operators;
+
+public class Demo {
+	public static void main(String[] args) {
+		
+		int n =150;
+		
+	    a: for(int i =1; i<=n;i++){
+	       
+	        do{
+	            if(i%10== 0){
+	           
+	               continue;
+	            } 
+	            else if(i>100){
+	                break a;
+	            }System.out.println(n);
+	        }
+	        while(i<=n);
+	   } 
+	
+}
+
+		
+	}
+	
+
+}

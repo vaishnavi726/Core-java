@@ -1,0 +1,11 @@
+package com.overload;
+
+public class OverloadAndOverride {
+	void diplay() {
+		System.out.println("parent display method");
+	}
+	void show() {
+		System.out.println("parent show method");
+	}
+
+}

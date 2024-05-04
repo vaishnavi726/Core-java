@@ -1,0 +1,14 @@
+package com.demo.employeemanagementsystem;
+
+import com.employeemanagemnetsystem.Manager;
+
+public class Demo {
+	
+	public static void main(String[] args) {
+		String[] projects = new String[] {"Travel", "insurance"};
+		
+		Manager manager = new Manager(1, "Rajendra", "Healthcare", 200000, projects);
+		manager.work();
+	}
+
+}

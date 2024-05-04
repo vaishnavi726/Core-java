@@ -1,0 +1,8 @@
+package com.eventmanagementsystem;
+
+public class Participant extends EventManagement {
+	
+	public String emailId;
+	public boolean checkIin;
+
+}
